@@ -1,0 +1,1 @@
+Jinjamator content plugin for analyzing unstructured text (uses textfsm)
